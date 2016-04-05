@@ -1,3 +1,2 @@
 print('test git')
-# TODO
-print('정해인 바보')
+print('정해인은 휴학을 했다.')
